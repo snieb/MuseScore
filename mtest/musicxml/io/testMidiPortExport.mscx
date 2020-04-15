@@ -102,9 +102,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>
@@ -334,9 +334,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>
@@ -566,9 +566,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>
@@ -798,9 +798,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>
@@ -1030,9 +1030,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>
@@ -1262,9 +1262,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>
@@ -1494,9 +1494,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>
@@ -1726,9 +1726,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>
@@ -1958,9 +1958,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>
@@ -2190,9 +2190,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>
@@ -2422,9 +2422,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>
@@ -2654,9 +2654,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>
@@ -2886,9 +2886,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>
@@ -3118,9 +3118,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>
@@ -3350,9 +3350,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>
@@ -3582,9 +3582,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>
@@ -3814,9 +3814,9 @@
         <Drum pitch="43">
           <head>normal</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>High Floor Tom</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>normal</head>

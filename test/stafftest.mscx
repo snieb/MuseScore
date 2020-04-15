@@ -171,9 +171,9 @@ p, li { white-space: pre-wrap; }
         <Drum pitch="43">
           <head>0</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>Tom 4</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>1</head>
@@ -381,9 +381,9 @@ p, li { white-space: pre-wrap; }
         <Drum pitch="43">
           <head>0</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>Tom 4</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>1</head>
@@ -591,9 +591,9 @@ p, li { white-space: pre-wrap; }
         <Drum pitch="43">
           <head>0</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>Tom 4</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>1</head>
@@ -801,9 +801,9 @@ p, li { white-space: pre-wrap; }
         <Drum pitch="43">
           <head>0</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>Tom 4</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>1</head>
@@ -1011,9 +1011,9 @@ p, li { white-space: pre-wrap; }
         <Drum pitch="43">
           <head>0</head>
           <line>5</line>
-          <voice>1</voice>
+          <voice>0</voice>
           <name>Tom 4</name>
-          <stem>2</stem>
+          <stem>1</stem>
           </Drum>
         <Drum pitch="44">
           <head>1</head>
